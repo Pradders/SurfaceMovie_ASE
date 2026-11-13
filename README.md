@@ -1,6 +1,7 @@
 # SurfaceMovie_ASE
 
 A Python utility using the Atomic Simulation Environment (ASE) to load VASP `XDATCAR` trajectories, optionally shift atomic positions, and generate MP4 movies showing top and side views of the structures.
+**Version 1.0.0 (v1.0.0)** — current release.
 
 # Related projects
 
