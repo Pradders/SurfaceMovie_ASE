@@ -371,13 +371,11 @@ See examples under the "Movies" and "Systems" folders. Two example figures are p
 <p align="center">
   <em>Video 1: Example video of furfural adsorbed on Ni(111).</em>
 </p>
-<video src="Movies/Ni-trans_furfural.mp4" controls width="800"></video>
 
 [Watch example movie](Movies/Ni-trans_furfural_H_1.mp4)
 <p align="center">
   <em>Video 2: Example video of furfural adsorbed on Ni(111) co-adsorbed with an H atom.</em>
 </p>
-<video src="Movies/Ni-trans_furfural_H_1.mp4" controls width="800"></video>
 
 # Requirements
 
